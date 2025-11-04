@@ -32,15 +32,6 @@ The MVP allows basic operations such as minting, transferring, and burning token
 
 ---
 
-## ⚙️ Technical Stack
-
-- Solidity  
-- Hardhat / Foundry (for smart contract development)  
-- Node.js  
-- Ethers.js / Web3.js  
-- OpenZeppelin Libraries
-
----
 
 ## 🚀 Roadmap
 
